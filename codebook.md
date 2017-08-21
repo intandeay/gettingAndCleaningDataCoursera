@@ -1,12 +1,12 @@
-Code Book
+# Code Book
 
-Variables and Units
+# Variables and Units
 
 All the variables/measurements started with 't' are in time-domain, while variables started with 'f' are in frequency domain
 Column "subject" in tidy dataset represents the person who was doing that measurement.
 Column "activity" in tidy dataset represents the activity the person was doing in that measurement
 
-Steps to achieve the tidy dataset
+# Steps to achieve the tidy dataset
 
 1. Check whether the file has already been downloaded or not.
 2. If not, download the data set.
@@ -32,7 +32,7 @@ Steps to achieve the tidy dataset
 14. Make a new table which contains the mean of every combination of subject and activity.
 15. Create a new file from that table
 
-Variables in run_analysis.R
+# Variables in run_analysis.R
 
 fileUrl = link of the raw dataset
 zipFileName = file name assigned for the downloaded dataset

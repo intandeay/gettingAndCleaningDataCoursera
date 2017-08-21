@@ -36,4 +36,5 @@ Dataset processed in this repository comes from https://d396qusza40orc.cloudfron
 12. Change content of column "activity" by matching them with activity_labels.txt
 13. Tidy/beautify column names
 14. Make a new table which contains the mean of every combination of subject and activity.
-15. Create a new file from that table
+15. Order the data set by subject first then by activity
+16. Create a new file from that table

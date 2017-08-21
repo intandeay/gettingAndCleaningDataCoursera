@@ -32,7 +32,7 @@ Steps to achieve the tidy dataset
 14. Make a new table which contains the mean of every combination of subject and activity.
 15. Create a new file from that table
 
-Variables in analysis.R
+Variables in run_analysis.R
 
 fileUrl = link of the raw dataset
 zipFileName = file name assigned for the downloaded dataset
